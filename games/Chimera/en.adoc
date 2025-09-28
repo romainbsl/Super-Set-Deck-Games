@@ -244,7 +244,7 @@ For a total of 90 points.
 
 .5 player game scoring
 ====
-*The bid is 20, the Chimera goes out first, the Pi Ya goes out second, two Trap were played and two of the Hunters played no cards.*
+*The bid is 50, the Chimera goes out first, the Pi Ya goes out second, two Trap were played and two of the Hunters played no cards.*
 
 * The *Chimera* scores: +
 100 (2x their *Bid* of 50) + +

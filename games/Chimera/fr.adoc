@@ -112,7 +112,7 @@ La taille de la main de *Chimère* est donc maintenant de 20 cartes.
 ** Elles aideront la *Chimère* à choisir un partenaire.
 ** Elles seront échangées entre les partenaires au début de la manche.
 * La mise continue se déroule normalement (avec cet ajout) jusqu'à ce que la *Chimère* soit déterminée.
-* En commençant par la Chimère, chacun·e à l'opportunité de jusqu'à 3 cartes sur la table, si ce n'est pas déjà fait.
+* En commençant par la Chimère, chacun·e à l'opportunité de poser jusqu'à 3 cartes sur la table, si ce n'est pas déjà fait.
 * Lorsque tout le monde à choisi ou non de jouer des cartes face visible, la *Chimère* choisis un·e autre jou·eur·euse pour être son partenaire, le *Pi Ya*, et les trois autres forment maintenant le partenariat des *Chasseurs*.
 
 NOTE: Si tout le monde a passé sans miser, celui·celle qui a passé en premier·e devient la *Chimère* avec la mise 30.
@@ -130,9 +130,9 @@ Dans ce cas :
 
 * Le nombre de cartes échangées entre les partenaires correspond au plus petit nombre de cartes face visible placées devant chacun·e d'entre eux·elles.
 * La *Chimère* et le *Pi Ya* s'échangent le même nombre de cartes et reprennent les cartes restantes dans leur main.
-Celui·Celle qui a trop de cartes en main choisit quelles cartes sont échangées, et quelles cartes sont reprises en main.
+Celui·Celle qui a le plus de cartes face visible choisit quelles cartes sont échangées, et quelles cartes sont reprises en main.
 * Les *Chasseurs* s'échangent le même nombre de cartes face visible dans le sens horaire et reprennent les cartes restantes dans leur main.
-·Celle qui a trop de cartes en main choisit quelles cartes sont échangées, et quelles cartes sont reprises en main.
+Celles·ceux qui ont placé trop de cartes face visible choisissent lesquelles de leur cartes sont échangées, et lesquelles sont reprises en main.
 
 *Antre de la Chimère :*
 
@@ -243,9 +243,9 @@ Soit un total de 90 points.
 * De plus, chacun·e score les points des cartes trésors gagnés lors des plis de cette manche.
 ====
 
-.Score à 3 jou·eur·euse·s
+.Score à 5 jou·eur·euse·s
 ====
-*La mise est de 20, la Chimère est la première à avoir vidé sa main, le Pi Ya a vidé sa main en second, deux Pièges ont été joué et deux Chasseurs n'ont pas joué de cartes.*
+*La mise est de 50, la Chimère est la première à avoir vidé sa main, le Pi Ya a vidé sa main en second, deux Pièges ont été joué et deux Chasseurs n'ont pas joué de cartes.*
 
 * La *Chimère* score : +
 100 (2x sa *Mise* de 50) + +
@@ -294,7 +294,7 @@ Les limites recommandées sont 300,400, ou 500 points.
   Cependant, puisqu'elles ne sont pas numérotées, elles ne peuvent pas être utilisées dans des suites.
 * Les cartes *Phénix* et *Dragon* jouées ensemble forment le *Vol de la Chimère* qui peut être joué pour remporter n'importe quel pli.
   Ces cartes ne peuvent être jouées conjointement que dans ce cas précis.
-* *À 3 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère NE PEUT PAS être joué en dehors de votre tour.
+* *À 3 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère NE PEUVENT PAS être joué en dehors de votre tour.
 * *À 5 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère PEUVENT être joué en dehors de votre tour.
 ** Les cartes *Papillon* peuvent être jouées pour remplacer n'importe quelle carte numérotée (0-12) pour former une combinaison légale, y compris pour une carte seule.
    Elles peuvent également être utilisées pour former des sets de 4, 5, ou 6 cartes de même valeur.

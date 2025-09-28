@@ -6,6 +6,7 @@ import js.array.asList
 import js.intl.NumberFormat
 import js.objects.jso
 import kotlinx.coroutines.await
+import kotlinx.coroutines.delay
 import module.nosleep.NoSleep
 import module.react.image_gallery.ImageGallery
 import module.react.image_gallery.ImageGalleryProps
@@ -540,6 +541,11 @@ private val Adoc = FC<AdocProps>("Adoc") { props ->
     val section = params.get("section")
 
     var luggageOffset: Pair<Int, Int>? by useState()
+
+    useEffectOnce {
+        delay(1)
+        window.asDynamic().MathJax.typeset(arrayOf(boxRef.current!!))
+    }
 
     useLayoutEffect {
         val div = boxRef.current!!

@@ -1,0 +1,118 @@
+= Kobayakawa
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 27 play cards: 0-21, J, S, C, Q, K in ★.
+* 64 coins (or tokens, or non-★ face-down cards).
+* 1 Starting player card: The Monkey-King!
+****
+
+Players try to win coins with the highest valued card in their hands —  but the Kobayakawa card can always change the outcome.
+The goal of the game is to collect the most coins by the end of the last round.
+
+
+== Set-Up
+
+Select play cards according to the number of players :
+
+- At 3 players: 0-11
+- At 4 players: 0-14
+- At 5 players: 0-17
+- At 6 players: 0-20
+- At 7 players: 0-21 + J & S
+- At 8 players: 0-21 + J, S, C, Q & K
+
+[IMPORTANT]
+====
+At 7 or 8 players, the animal cards have specific values:
+
+[%autowidth,cols=">,^,^,^,^,^"]
+|===
+| Card | J | S | C | Q | K
+| value | 22 | 23 | 24 | 25 | 26
+|===
+====
+
+*Everyone starts with 5 coins*, and the youngest person takes the first player token.
+
+
+== Steps of a Round
+
+Each round is divided into two phases: the Draw phase and the Bet phase.
+
+
+=== Draw phase
+
+. *Give 1 coin* to each player from the bank to their inventory.
+(The amount of coins must always be visible for everyone.)
+. Starting from the First Player in clockwise order, *deal 1 card* face down to each player from the shuffled deck, then put the drawing deck face down on the table.
+(The players are only allowed to see their own cards.)
+. Deal 1 card face up next to the deck — this is the *_Kobayakawa_ card*.
+The value of this card will always be added to the card with the lowest value at the end of each round.
+. Starting from the First Player, everyone *must* do 1 of these actions (take turns in clockwise order):
+.. Draw the top card from the deck and *secretly choose 1* to keep in play.
+The other card becomes discarded — put it face up from your hand in front of you so the players can follow which card is out of play.
+.. Draw the top card from the deck and put it face up next to the deck — this is the *new value* of the _Kobayakawa_ card.
+(Make sure to put the new card down in a way that the value of the old card still can be seen.)
+
+
+=== Bet phase
+
+. Starting from the First Player, everyone must choose 1 of these *betting* opportunities (take turns in clockwise order):
+.. *Place a bet* in coins from the player inventory — this creates a prize pool for the winner of the round.
+The maximum a player can bet is the round number + 2 (maximum 3 coins at the first round, maximum 8 coins at the fifth round).
+After the First Player, the following bets must be equal or higher.
+If everyone agrees not to raise their bets anymore (in clockwise order), the prize pool is ready.
+If any of the players cannot place enough coins equal to the agreed bet, they can still stay in play with all of their coins in the prize pool.
+.. To stay out of the round, *passing* is allowed, even without placing a bet.
+When a player passes, coins placed into the prize pool cannot be withdrawn.
+The card in hand is placed face-down in front of the player.
+
+If there is only one player left who has not passed, that player wins the round, takes the prize pool, and as an added bonus, the same number of coins per completed rounds from the bank (for example, 4 coins after ending the fourth round).
+
+If 2 players or more are in play:
+
+[start=2]
+. Players who passed can *make a prediction* of the winner of the round by announcing the chosen player.
+They place a bet with 1, 2 or 3 coins onto their own face-down card.
+These coins are not part of the prize pool, and the players who passed do not have to agree on the bets.
+. It is finally time to *reveal the cards* of everyone who is in play!
+Check which player has the card with the lowest value, then add the value of the _Kobayakawa_ card to it.
+The winner of the round is the player who has the highest total.
+In case of tie, the player with the highest card in their hand wins.
+. The winner of the round takes the prize pool, and as an added bonus, the same number of coins per completed rounds from the bank (for example, 4 coins after ending the fourth round).
+The players who predicted the winner correctly get their bets back plus the same amount from the bank.
+Those who lost their predictions place their bets into the bank.
+
+Finally, give the First Player token to the winner of the round.
+Get ready to start a new round!
+
+
+== End of the game
+
+*After 5 rounds*, the winner of the game is the player who collected the most coins.
+In case of a tie, the winners share the victory.
+
+Players can agree to play 3 or 7 rounds instead at the beginning of the game.
+
+
+== Meta-Kobayakawa
+
+You can play multiple games of Kobayakawa in a row for a grand evening of betting and bluffing!
+
+After each game, award:
+
+- 1 point to the winner of the game.
+- 1 point to the player who came in second place.
+- 1 point to the winner of the last round of the game.
+
+Play until one player has reached:
+
+- With 3 players: 7 points
+- With 4 players: 6 points
+- With 5 players: 5 points
+- With 6 players: 4 points

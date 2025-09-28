@@ -1,0 +1,116 @@
+= Kobayakawa
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 27 cartes de jeu : 0-21, J, S, C, Q, K à ★.
+* 64 pièces (opu jetons, or cartes non ★ face cachée).
+* 1 Jeton de Départ : Le Roi Singe !
+****
+
+Les joueurs tentent de gagner des pièces avec la carte de plus grande valeur dans leurs mains — mais la carte Kobayakawa peut toujours changer le résultat.
+Le but du jeu est de collecter le plus de pièces avant la fin de la partie.
+
+
+== Mise en Place
+
+Sélectionnez les cartes à jouer en fonction du nombre de jou·eur·euse·s :
+
+- À 3 jou·eur·euse·s : 0-11
+- À 4 jou·eur·euse·s : 0-14
+- À 5 jou·eur·euse·s : 0-17
+- À 6 jou·eur·euse·s : 0-20
+- À 7 jou·eur·euse·s : 0-21 + J & S
+- À 8 jou·eur·euse·s : 0-21 + J, S, C, Q & K
+
+[IMPORTANT]
+====
+A 7 ou 8 joueurs, les cartes animaux ont des valeurs spécifiques :
+
+[%autowidth,cols=">,^,^,^,^,^"]
+|===
+| Carte | J | S | C | Q | K
+| valeur | 22 | 23 | 24 | 25 | 26
+|===
+====
+
+*Tout le monde commence avec 5 pièces* et le plus jeune prend le Jeton de Départ.
+
+
+== Étapes d'une manche
+
+Chaque manche est divisée en deux phases : la phase de Pioche et la phase de Mise.
+
+
+=== Phase de Pioche
+
+. *Donnez 1 pièce* de la banque à chaque jou·eur·euse.
+(Le montant des pièces doit toujours être visible pour tout le monde.)
+. En commençant par le ou la premi·er·ère jou·eur·euse et dans le sens des aiguilles d'une montre, *distribuez une carte* face cachée à chacun·e, puis posez le paquet face cachée sur la table.
+(Les jou·eur·esue·s ne peuvent voir que leurs propres cartes.)
+. Distribuez une carte face visible à côté du paquet : il s'agit de la *carte _Kobayakawa_*.
+Sa valeur sera toujours ajoutée à la carte la plus faible à la fin de chaque tour.
+. En commençant par celui·celle avec le Jeton de Départ, chacun·e doit effectuer l'une de ces actions (à tour de rôle dans le sens des aiguilles d'une montre) :
+.. Piochez la première carte du paquet et choisissez-en une secrètement à garder en jeu.
+L'autre carte est défaussée : placez-la face visible devant vous afin que tous puissent voir quelle carte est hors-jeu.
+.. Piochez la première carte du paquet et placez-la face visible à côté du paquet : c'est la nouvelle valeur de la carte Kobayakawa.
+(Assurez-vous de poser la nouvelle carte de manière à ce que la valeur de l'ancienne soit toujours visible.)
+
+
+=== Phase de Mise
+
+. En commençant par celui·celle avec le Jeton de Départ, chacun·e doit choisir l'une de ces opportunités de mise (à tour de rôle dans le sens des aiguilles d'une montre) :
+.. *Misez* des pièces de votre inventaire pour créer une cagnotte pour le vainqueur de la manche.
+La mise maximale est égale au numéro de la manche + 2 (maximum 3 pièces à la première manche, maximum 8 pièces à la cinquième).
+Après la première mise, les mises suivantes doivent être égales ou supérieures.
+Si tout le monde accepte de ne plus augmenter sa mise (dans le sens des aiguilles d'une montre), la cagnotte est prête.
+Si vous ne parvenez pas à placer suffisamment de pièces pour atteindre la mise convenue, vous pouvez continuer à jouer avec toutes vos pièces dans la cagnotte.
+.. Pour rester hors du tour, il est permis de *passer*, même sans miser.
+Lorsque vous passez, vos pièces placées dans la cagnotte ne peuvent pas être retirées.
+Votre carte en main est placée face cachée devant vous.
+
+S'il ne reste qu'un·e seul jou·eur·euse qui n'a pas passé, il·elle remporte la manche, remporte la cagnotte et, en prime, le même nombre de pièces que de manche terminée de la banque (par example : 4 pièces après avoir terminé la quatrième manche).
+
+Si 2 jou·eur·euse·s ou plus sont resté·e·s en jeu :
+
+[start=2]
+. Celles et ceux qui ont passé peuvent *prédire* le vainqueur de la manche en annonçant la personne choisie.
+Il·elle·s placent une mise de 1, 2 ou 3 pièces sur leur propre carte face cachée.
+Ces pièces ne font pas partie de la cagnotte, et celles et ceux qui ont passé ne sont pas obligés de se mettre d'accord sur les mises.
+. Il est enfin temps de révéler les cartes de toutes celles et ceux qui sont en jeu !
+Celui ou celle qui possède la carte la plus faible y additionne la valeur de la carte Kobayakawa.
+Le vainqueur est celui ou celle qui possède le total le plus élevé.
+En cas d'égalité, c'est celui ou celle possédant la carte la plus forte en main qui l'emporte.
+
+Enfin, donnez le jeton de Départ au vainqueur de la manche.
+Préparez-vous à commencer une nouvelle manche !
+
+
+== Fin du jeu
+
+*Après 5 manches*, celui ou celle qui a collecté le plus de pièces reporte la partie.
+En cas d'égalité, les vainqueurs se partagent la victoire.
+
+Les joueurs peuvent convenir de jouer 3 ou 7 manches au début de la partie.
+
+
+== Méta-Kobayakawa
+
+Vous pouvez jouer plusieurs jeux de Kobayakawa à la suite pour une grande soirée de paris et de bluff !
+
+Après chaque partie, attribuez :
+
+- 1 point à celui ou celle qui à remporté cette partie.
+- 1 point à celui ou celle qui est arrivé·e en deuxième place.
+- 1 point au vainqueur de la dernière manche du jeu.
+
+Jouez jusqu'à ce qu'un· jou·eur·euse ait atteint :
+
+- Avec 3 jou·eur·euse·s : 7 points
+- Avec 4 jou·eur·euse·s : 6 points
+- Avec 5 jou·eur·euse·s : 5 points
+- Avec 6 jou·eur·euse·s : 4 points
