@@ -1,6 +1,12 @@
 = Changelog
 
 
+== 10/2025
+
+* Games:
+** link:/#/games/Whot[Whot!]
+
+
 == 09/2025
 
 * Games:
