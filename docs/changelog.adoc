@@ -5,6 +5,7 @@
 
 * Games:
 ** link:/#/games/Whot[Whot!]
+** link:/#/games/Boast_or_Nothing[Boast or Nothing]
 
 
 == 09/2025

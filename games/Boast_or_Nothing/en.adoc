@@ -1,0 +1,204 @@
+= Boast or Nothing
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 33 numbered cards: 1-11 in ♠, ♥ & ♣
+* 3 Color Rank cards: A in ♠, ♥ & ♣
+* 4 Butterflies
+****
+
+B.O.N - The tricky trick-taking game where the strength of your hand constantly changes!
+
+Welcome to the World Championships of Boasting!
+The greatest braggers in the world have come together to compete for the title.
+We’re down to the last few contestants, and you’re one of them!
+Win, and you’ll enjoy free drinks in any bar for the rest of your life!
+Lose, and it’s back to the boasting minor league for you.
+Let’s get to the contest!
+
+
+== Set Up
+
+Randomly arrange the A Color Rank cards into a stack (shift each card in the stack so the cards below are visible).
+You’ll use these to determine the strength of the colors during play.
+
+[%autowidth, cols="4*^"]
+|===
+h| Players
+h| Range of +
+cards used
+h| Number of +
+Butterflies
+h| Trick goal per +
+round per player
+
+| 3 | 1 - 7  | 2 | 3
+| 4 | 1 - 9  | 3 | 2
+| 5 | 1 - 11 | 4 | 1
+|===
+
+Use the chart above to prepare the deck for play.
+Shuffle up the cards and deal 7 cards to each player.
+Set the extra two cards face-up to the side of the table.
+
+.Set up
+====
+In a 3-player game, take the 1-7 cards from each color and two Butterflies and shuffle them all together.
+Deal 7 cards to each player, then place the extra two cards face-up to the side of the table.
+====
+
+
+== Game Play
+
+B.O.N is a trick-taking game similar to Hearts that you used to play on your computer at work.
+Or Pinochle that your grandma taught you how to play.
+She used to put warmed up syrup on your pancakes too; that was pretty great.
+
+Anyway, B.O.N is played over a number of rounds.
+Points will be assigned to players after each round.
+The first player to score at least as many points as there are players is the undisputed Champion of Boasting and can lord it over all the other players for all time.
+
+Determine a start player by any method you choose.
+We suggest giving it to the player who most recently had an adult beverage.
+If you still can’t figure out a start player, give it to whomever offers to wash your car.
+Or have a steel cage total brawl.
+Or whatever. Just start the game already. Jeez.
+
+The lucky soul chosen to be the start player will play any one card from their hand.
+The color of this card determines the Prime Color.
+
+Play always moves clockwise (because who makes a card game that plays counter-clockwise? c’mon now), and subsequent players must play a card of the Prime Color if able.
+If a player cannot play the appropriate color, they may play any card in their hand.
+
+In the event that the start player leads with a Butterfly card, the first card of a color played sets the Prime Color.
+Also, why you gotta be so difficult, Brad?
+
+After each player has played one card (this is called a Trick!), it’s time to determine the card with the highest value.
+Once you have determined the highest valued card, the player who played that card takes the Trick and leads to the next Trick.
+
+
+== Determining the highest value
+
+This is the best part of the game. Seriously. Pay attention.
+
+Ok. If all the played cards match the Prime Color, then the highest numerical-valued card wins.
+Easy enough.
+
+But, if a card is played that doesn’t match the Prime Color, then it’s time to consult the Color Rank cards!
+The cards are ranked from highest to lowest, top to bottom.
+Top, good. Bottom, bad. Middle... um middle.
+The highest numerically valued card from the highest ranked color will always win the trick.
+Make sense? How about an example?
+
+.Trick
+====
+The Color Rank Cards are arranged top to bottom: ♠, ♥, ♣.
+
+Bill leads with a ♥8.
+Sue follows with a ♥3.
+Julie plays a ♠1.
+Greg plays a ♣9.
+
+♥ is the Prime Color, with 8 as the highest card.
+But we have some off-color cards, so let’s check the Color Ranks.
+♠ is on top, so any ♠ card of any numerical value will beat any ♥ or ♣ cards.
+
+Greg has the highest numerical value in the trick, but it’s ♣.
+Better luck next time, Greg.
+Julie played the ♠1, and even though it’s the lowest numerical value, ♠ is currently stronger than the other colors, so she’ll take the trick.
+Scoop it up, Julie. You’ll lead to the next trick.
+====
+
+So, the heirarchy is:
+
+1. Color of the cards, and then
+2. the numerical value of the cards within the strongest represented color.
+
+If it’s still unclear, please look us up on IG, TW, or FB and tell us how awful we are at conveying simple mechanics via the written word.
+
+NOW! Here’s the real tricky part of this “Tricky Trick-taking Game”...
+
+You ready for this?
+Any time a color wins a Trick, that color’s Color Rank Card is moved to the bottom of the stack.
+Cool, huh?
+
+.Color rank change
+====
+So in our scenario above, the ♠ card would move to the bottom and the new rankings would be ♥, ♣, ♠.
+Is your mind blown yet?
+We thought so.
+====
+
+
+== Butterflies
+
+“That’s all great” you say “But what about these Butterfly cards we have? What’s the deal there?”
+
+Glad you asked.
+We were getting to those next.
+Butterfly cards are pretty simple really.
+A player can play a Butterfly card at any time, whether or not they have cards of the Prime Color in their hand.
+And Butterfly cards are always the weakest card on any Trick.
+
+We can hear you now - “But, but what happens if all the players play Butterfly cards??? What happens then?”
+Take a closer look at the set-up chart.
+We’ll wait.
+
+
+== End of the round
+
+At the end of each round, players will be assigned points based on the tricks they’ve taken.
+But because the judges of the World Championship of Boasting are a little sauced, the scoring is a kinda wonky.
+
+Here's how many tricks each player needs to get according to the number of players (in case you missed it in the set up chart):
+
+- 3 players: 3 tricks
+- 4 players: 2 tricks
+- 5 players: 1 trick
+
+Make sense? Great.
+So if you’re in a 3-player game, each player who takes EXACTLY 3 tricks will score 1 point.
+2 tricks for a 4-player game.
+And 1 trick for a 5-player game.
+That’s not so hard!
+
+BUT!
+If you take zero tricks, regardless of the number of players, you will score 2 points.
+Because you’re too cool for school: and you know it, the audience knows it, and the judges definitely know it.
+Take your two points, Fonz.
+
+.Points
+====
+In a 4 player game, if you took:
+
+- 0 tricks: you score 2 points.
+- 1 trick: you don't score any point.
+- 2 tricks: you score 1 point.
+- 3 or more tricks: you don't score any point.
+====
+
+
+The game ends when one player scores at least as many points as there are players.
+If multiple players reach that threshold at the same time, the player who owns this game wins.
+No. Sorry. Not that.
+If multiple players reach the threshold at the same time, the player with the most points wins.
+
+In case of a tie, the player who took the most cards of the Prime Color in the last round is the winner.
+If it is still a tie, the player who took the most cards of the second strongest color in the last round is the winner.
+If it is still a tie, then clearly you two are doppelgangers and one of you is in real trouble.
+
+Now celebrate that win with a shot of your favorite hard stuff.
+And put it on their tab.
+
+
+== Advanced rules
+
+Think you’re fancy, huh?
+Think “This game doesn’t seem so hard. I’m  gonna mop the floor with everyone!”
+Well if you want to make things a little more difficult for you and your friends, try out this alternate rule:
+
+After all cards have been dealt, set aside the two extra cards face down instead of face up.
