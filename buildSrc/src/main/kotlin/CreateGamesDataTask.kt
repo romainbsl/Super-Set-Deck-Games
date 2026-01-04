@@ -34,6 +34,16 @@ abstract class CreateGamesDataTask : DefaultTask() {
     @get:OutputDirectory
     val cacheDir = project.layout.buildDirectory.dir("cache-games-data")
 
+    private val bggToken: String by lazy {
+        project.findProperty("bgg.token")?.toString()
+            ?: System.getenv("BGG_TOKEN")
+            ?: throw IllegalStateException(
+                "BGG API token not found. Please set the BGG_TOKEN environment variable " +
+                "or pass -Pbgg.token=<your-token> to Gradle. " +
+                "Register for a token at https://boardgamegeek.com/applications"
+            )
+    }
+
     private val yamlLoader = Load(
         LoadSettings.builder()
             .setAllowDuplicateKeys(false)
@@ -93,10 +103,26 @@ abstract class CreateGamesDataTask : DefaultTask() {
             val bytes =
                 if (cacheFile.exists()) cacheFile.readBytes()
                 else {
-                    httpClient.send(
-                        HttpRequest.newBuilder(URI(url)).GET().build(),
-                        BodyHandlers.ofByteArray()
-                    ).body()
+                    val request = HttpRequest.newBuilder(URI(url))
+                        .header("Authorization", "Bearer $bggToken")
+                        .GET()
+                        .build()
+                    val response = httpClient.send(request, BodyHandlers.ofByteArray())
+
+                    when (response.statusCode()) {
+                        200 -> response.body()
+                        401 -> throw IllegalStateException(
+                            "BGG API authentication failed (HTTP 401). " +
+                            "Please check that your BGG_TOKEN is valid."
+                        )
+                        429 -> throw IllegalStateException(
+                            "BGG API rate limit exceeded (HTTP 429). " +
+                            "Please wait before retrying."
+                        )
+                        else -> throw IllegalStateException(
+                            "BGG API request failed with HTTP ${response.statusCode()} for URL: $url"
+                        )
+                    }
                 }
             val result = transform(bytes)
             if (!cacheFile.exists()) {
