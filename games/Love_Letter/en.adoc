@@ -1,0 +1,161 @@
+= Love Letter
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 16 character cards:
+** 5 Wolves (Guard)
+** 2 Monkeys (Priest)
+** 2 Snakes (Baron)
+** 2 Butterflies (Handmaid)
+** 2 Dragons (Prince)
+** 1 K♠ (King)
+** 1 Q♠ (Countess)
+** 1 Phoenix (Princess)
+* Tokens to track round wins: numbered cards 1-7 in ★, or any other tokens.
+****
+
+In Love Letter, you are trying to deliver your love letter to the Princess.
+To do so, you must get your letter into her hands while deflecting the letters from competing suitors.
+The closer your letter is to the Princess, the better!
+
+
+== Aim of the game
+
+Be the last player remaining in a round, or hold the highest-ranked character when the deck runs out.
+Win a number of rounds (tokens) to win the game:
+
+[%autowidth,cols="^,^"]
+|===
+| Players | Tokens to win
+
+| 2 | 7
+| 3 | 5
+| 4 | 4
+|===
+
+
+== Setup
+
+1. Shuffle all 16 cards.
+2. Remove the top card from the deck face-down without looking at it.
+This card is out of the round.
+3. *With 2 players only:* Remove 3 more cards face-up and set them aside.
+These cards are visible to all players but out of the round.
+4. Deal 1 card to each player.
+This is your hand.
+Keep it secret!
+5. Place the remaining cards face-down as a draw deck.
+
+
+== Character hierarchy (high to low)
+
+[%autowidth,cols="^,^,^"]
+|===
+| Rank | Card | Character
+
+| 8 | Phoenix | Princess
+| 7 | Q♠ | Countess
+| 6 | K♠ | King
+| 5 | Dragon | Prince
+| 4 | Butterfly | Handmaid
+| 3 | Snake | Baron
+| 2 | Monkey | Priest
+| 1 | Wolf | Guard
+|===
+
+
+== Gameplay
+
+The player who most recently went on a date goes first (or choose randomly).
+Play proceeds clockwise.
+
+On your turn:
+
+1. *Draw* the top card from the deck.
+2. *Play* one of your two cards face-up in front of you.
+3. *Apply* the played card's effect.
+
+Your turn then ends, and play passes to the next player.
+
+
+== Card effects
+
+=== Wolf (Guard) - Rank 1
+*Guess:* Name a non-Wolf character and choose another player.
+If that player has that character, they are *eliminated* from the round.
+
+TIP: You cannot guess "Wolf".
+
+=== Monkey (Priest) - Rank 2
+*Peek:* Choose another player and secretly look at their hand.
+Do not reveal it to other players.
+
+=== Snake (Baron) - Rank 3
+*Compare:* Choose another player.
+You and that player secretly compare hands.
+The player with the *lower* rank is eliminated.
+If tied, nothing happens.
+
+=== Butterfly (Handmaid) - Rank 4
+*Protection:* Until the start of your next turn, you cannot be targeted by any other player's card effect.
+
+=== Dragon (Prince) - Rank 5
+*Discard:* Choose any player (including yourself).
+That player discards their hand and draws a new card.
+If the deck is empty, they draw the face-down set-aside card.
+
+IMPORTANT: If a player discards the Phoenix (Princess) this way, they are eliminated!
+
+=== K♠ (King) - Rank 6
+*Trade:* Choose another player and trade hands with them.
+
+=== Q♠ (Countess) - Rank 7
+*Forced play:* If you ever have the Countess *and* either the King or a Dragon in your hand, you *must* play the Countess.
+
+NOTE: The Countess has no effect when played. You may also choose to play her even if not forced.
+
+=== Phoenix (Princess) - Rank 8
+*Fragile:* If you play or discard the Princess for *any* reason, you are immediately *eliminated* from the round.
+
+NOTE: The Princess is the highest-ranked card.
+If you hold her at the end of the round, you win!
+
+
+== Elimination
+
+When you are eliminated:
+
+* Discard all your cards face-up.
+* You cannot be targeted by other players.
+* You are out for the remainder of the round.
+
+
+== End of round
+
+The round ends when:
+
+* Only *one player* remains (they win), or
+* The *deck runs out* after a player's turn.
+
+If the deck runs out, all remaining players reveal their hands.
+The player with the *highest-ranked* card wins the round.
+If tied, the player who discarded the highest total value during the round wins.
+
+The winner takes a token of affection.
+
+
+== End of game
+
+The first player to collect the required number of tokens wins the game and the Princess's heart!
+
+
+== Strategy tips
+
+* Pay attention to which cards have been played.
+* The Countess can be a bluff - playing her voluntarily makes others think you have the King or Dragon.
+* Protecting yourself with the Butterfly is powerful but reveals your strategy.
+* Remember: there are 5 Wolves, so guessing correctly is easier early in the round.

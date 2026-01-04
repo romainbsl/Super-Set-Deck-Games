@@ -1,6 +1,12 @@
 = Changelog
 
 
+== 01/2026
+
+* Games:
+** link:/#/games/Love_Letter[Love Letter]
+
+
 == 10/2025
 
 * Games:

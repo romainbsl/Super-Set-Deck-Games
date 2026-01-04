@@ -1,0 +1,161 @@
+= Love Letter
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Materiel
+****
+* 16 cartes personnage :
+** 5 Loups (Garde)
+** 2 Singes (Prêtre)
+** 2 Serpents (Baron)
+** 2 Papillons (Servante)
+** 2 Dragons (Prince)
+** 1 K♠ (Roi)
+** 1 Q♠ (Comtesse)
+** 1 Phoenix (Princesse)
+* Jetons pour compter les manches gagnées : cartes numérotées 1-7 en ★, ou tout autre jeton.
+****
+
+Dans Love Letter, vous tentez de faire parvenir votre lettre d'amour à la Princesse.
+Pour y arriver, vous devez remettre votre lettre entre ses mains tout en bloquant celles des autres prétendants.
+Plus votre messager est proche de la Princesse, mieux c'est !
+
+
+== But du jeu
+
+Être le dernier joueur en lice dans une manche, ou détenir le personnage de plus haut rang quand le paquet est épuisé.
+Gagnez un certain nombre de manches (jetons) pour remporter la partie :
+
+[%autowidth,cols="^,^"]
+|===
+| Joueurs | Jetons pour gagner
+
+| 2 | 7
+| 3 | 5
+| 4 | 4
+|===
+
+
+== Mise en place
+
+1. Mélangez les 16 cartes.
+2. Retirez la premiere carte du paquet face cachée sans la regarder.
+Cette carte est hors-jeu pour cette manche.
+3. *A 2 joueurs uniquement :* Retirez 3 cartes supplémentaires face visible.
+Ces cartes sont visibles de tous mais hors-jeu.
+4. Distribuez 1 carte à chaque joueur.
+C'est votre main.
+Gardez-la secrete !
+5. Placez les cartes restantes face cachée pour former la pioche.
+
+
+== Hiérarchie des personnages (du plus fort au plus faible)
+
+[%autowidth,cols="^,^,^"]
+|===
+| Rang | Carte | Personnage
+
+| 8 | Phoenix | Princesse
+| 7 | Q♠ | Comtesse
+| 6 | K♠ | Roi
+| 5 | Dragon | Prince
+| 4 | Papillon | Servante
+| 3 | Serpent | Baron
+| 2 | Singe | Prêtre
+| 1 | Loup | Garde
+|===
+
+
+== Déroulement du jeu
+
+Le joueur qui a eu un rendez-vous amoureux le plus récemment commence (ou tirez au sort).
+Le jeu se déroule dans le sens horaire.
+
+A votre tour :
+
+1. *Piochez* la carte du dessus du paquet.
+2. *Jouez* une de vos deux cartes face visible devant vous.
+3. *Appliquez* l'effet de la carte jouée.
+
+Votre tour se termine alors et le jeu passe au joueur suivant.
+
+
+== Effets des cartes
+
+=== Loup (Garde) - Rang 1
+*Deviner :* Nommez un personnage autre que le Loup et désignez un autre joueur.
+Si ce joueur possède ce personnage, il est *éliminé* de la manche.
+
+TIP: Vous ne pouvez pas deviner "Loup".
+
+=== Singe (Prêtre) - Rang 2
+*Espionner :* Choisissez un autre joueur et regardez secrètement sa main.
+Ne la révélez pas aux autres joueurs.
+
+=== Serpent (Baron) - Rang 3
+*Comparer :* Choisissez un autre joueur.
+Vous et ce joueur comparez secrètement vos mains.
+Le joueur avec le rang *le plus bas* est éliminé.
+En cas d'égalité, rien ne se passe.
+
+=== Papillon (Servante) - Rang 4
+*Protection :* Jusqu'au debut de votre prochain tour, vous ne pouvez pas être ciblé par l'effet d'une carte d'un autre joueur.
+
+=== Dragon (Prince) - Rang 5
+*Défausser :* Choisissez n'importe quel joueur (vous compris).
+Ce joueur défausse sa main et pioche une nouvelle carte.
+Si le paquet est vide, il pioche la carte mise de cote face cachée.
+
+IMPORTANT: Si un joueur défausse le Phoenix (Princesse) de cette facon, il est éliminé !
+
+=== K♠ (Roi) - Rang 6
+*Échanger :* Choisissez un autre joueur et échangez vos mains.
+
+=== Q♠ (Comtesse) - Rang 7
+*Jeu force :* Si vous avez la Comtesse *et* soit le Roi, soit un Dragon en main, vous *devez* jouer la Comtesse.
+
+NOTE: La Comtesse n'a pas d'effet quand elle est jouée. Vous pouvez aussi choisir de la jouer meme si vous n'y étés pas oblige.
+
+=== Phoenix (Princesse) - Rang 8
+*Fragile :* Si vous jouez ou défaussez la Princesse pour *quelque raison que ce soit*, vous êtes immédiatement *éliminé* de la manche.
+
+NOTE: La Princesse est la carte de plus haut rang.
+Si vous la détenez à la fin de la manche, vous gagnez !
+
+
+== Elimination
+
+Quand vous êtes éliminé :
+
+* Défaussez toutes vos cartes face visible.
+* Vous ne pouvez plus être ciblé par les autres joueurs.
+* Vous êtes hors-jeu pour le reste de la manche.
+
+
+== Fin de manche
+
+La manche se termine quand :
+
+* Il ne reste qu'*'un seul joueur* (il gagne), ou
+* Le *paquet est épuisé* apres le tour d'un joueur.
+
+Si le paquet est épuisé, tous les joueurs restants révèlent leur main.
+Le joueur avec la carte de *plus haut rang* gagne la manche.
+En cas d'égalité, le joueur qui a défaussé la plus grande valeur totale pendant la manche gagne.
+
+Le gagnant prend un jeton d'affection.
+
+
+== Fin de partie
+
+Le premier joueur à collecter le nombre requis de jetons gagne la partie et le cœur de la Princesse !
+
+
+== Conseils stratégiques
+
+* Faites attention aux cartes deja jouées.
+* La Comtesse peut servir de bluff — la jouer volontairement fait croire aux autres que vous avez le Roi ou le Dragon.
+* Se protéger avec le Papillon est puissant, mais révèle votre stratégie.
+* N'oubliez pas : il y a 5 Loups, donc deviner correctement est plus facile en debut de manche.

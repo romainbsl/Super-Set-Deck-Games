@@ -1,0 +1,15 @@
+bggId: 129622
+authors: Seiji Kanai
+type:
+  - Deduction
+  - Bluffing
+  - Player Elimination
+players: 2, 3, 4
+cards:
+  Base:
+    all-players:
+      spades: Q, K
+      specials: Phoenix, Wolf*5, Monkey*2, Snake*2, Butterfly*2, Dragon*2
+  Tokens (optional):
+    all-players:
+      stars: 1-7
