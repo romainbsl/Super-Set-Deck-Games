@@ -47,7 +47,7 @@ val copyServiceWorker = tasks.register<Copy>("copyServiceWorker") {
     dependsOn(":ServiceWorker:jsBrowserProductionWebpack")
     group = "resources"
     from(rootDir.resolve("ServiceWorker/build/distributions"))
-    into(buildDir.resolve("generatedResources"))
+    into(layout.buildDirectory.dir("generatedResources"))
 }
 copyAllResources.configure { dependsOn(copyServiceWorker) }
 
