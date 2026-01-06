@@ -9,8 +9,11 @@ import mui.material.styles.TypographyVariant
 import mui.system.sx
 import react.*
 import react.dom.aria.ariaLabel
+import react.dom.html.ReactHTML.a
+import react.dom.html.ReactHTML.img
 import react.router.useNavigate
 import web.cssom.*
+import web.window.WindowTarget
 
 
 private val openAppDrawerContext = createRequiredContext<() -> Unit>()
@@ -46,6 +49,7 @@ private val DrawerContent = FC<DrawerContentProps>("DrawerContent") { props ->
     Box {
         sx {
             width = 256.px
+            height = 100.vh
             display = Display.flex
             flexDirection = FlexDirection.column
         }
@@ -121,6 +125,32 @@ private val DrawerContent = FC<DrawerContentProps>("DrawerContent") { props ->
                 }
                 ListItemText {
                     +lang.title_Changelog
+                }
+            }
+        }
+
+        Box {
+            sx {
+                flexGrow = number(1.0)
+            }
+        }
+
+        Divider()
+
+        Box {
+            sx {
+                padding = 16.px
+                display = Display.flex
+                justifyContent = JustifyContent.center
+            }
+            a {
+                href = "https://boardgamegeek.com"
+                target = WindowTarget._blank
+                img {
+                    src = "powered-by-bgg.svg"
+                    alt = "Powered by BoardGameGeek"
+                    width = 160.0
+                    height = 32.0
                 }
             }
         }

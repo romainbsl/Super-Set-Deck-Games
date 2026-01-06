@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40">
+  <defs>
+    <style>
+      .bgg-icon { fill: #ff5100; fill-rule: evenodd; }
+      .bgg-text { font-family: Arial, sans-serif; font-size: 11px; fill: #666; }
+      .bgg-name { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #333; }
+    </style>
+  </defs>
+  <!-- BGG Icon (scaled) -->
+  <g transform="translate(5, 2) scale(0.4)">
+    <path class="bgg-icon" d="M58.6,16.5l-8.9,2.4L58.4,0,2.1,20.7l3.1,24.8-5.2,5,15.5,38.8,32.9-12.1,11.4-26.9-4.9-4.7,3.6-29.1Z"/>
+  </g>
+  <!-- Text -->
+  <text x="35" y="16" class="bgg-text">Powered by</text>
+  <text x="35" y="32" class="bgg-name">BoardGameGeek</text>
+</svg>
