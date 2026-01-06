@@ -7,14 +7,14 @@
 .Components
 ****
 * 16 character cards:
-** 5 Wolves (Guard)
-** 2 Monkeys (Priest)
-** 2 Snakes (Baron)
-** 2 Butterflies (Handmaid)
-** 2 Dragons (Prince)
-** 1 K♠ (King)
-** 1 Q♠ (Countess)
-** 1 Phoenix (Princess)
+** 5 Guards (Wolf)
+** 2 Priests (Monkey)
+** 2 Barons (Snake)
+** 2 Handmaids (Butterfly)
+** 2 Princes (Dragon)
+** 1 King (K ♠)
+** 1 Countess (Q ♠)
+** 1 Princess (Phoenix)
 * Tokens to track round wins: numbered cards 1-7 in ★, or any other tokens.
 ****
 
@@ -55,16 +55,16 @@ Keep it secret!
 
 [%autowidth,cols="^,^,^"]
 |===
-| Rank | Card | Character
+| Rank | Character | Card
 
-| 8 | Phoenix | Princess
-| 7 | Q♠ | Countess
-| 6 | K♠ | King
-| 5 | Dragon | Prince
-| 4 | Butterfly | Handmaid
-| 3 | Snake | Baron
-| 2 | Monkey | Priest
-| 1 | Wolf | Guard
+| 8 | Princess | Phoenix
+| 7 | Countess | Q ♠
+| 6 | King | K ♠
+| 5 | Prince | Dragon
+| 4 | Handmaid | Butterfly
+| 3 | Baron | Snake
+| 2 | Priest | Monkey
+| 1 | Guard | Wolf
 |===
 
 
@@ -84,41 +84,41 @@ Your turn then ends, and play passes to the next player.
 
 == Card effects
 
-=== Wolf (Guard) - Rank 1
-*Guess:* Name a non-Wolf character and choose another player.
+=== Guard (Wolf) - Rank 1
+*Guess:* Name a non-Guard character and choose another player.
 If that player has that character, they are *eliminated* from the round.
 
-TIP: You cannot guess "Wolf".
+TIP: You cannot guess "Guard".
 
-=== Monkey (Priest) - Rank 2
+=== Priest (Monkey) - Rank 2
 *Peek:* Choose another player and secretly look at their hand.
 Do not reveal it to other players.
 
-=== Snake (Baron) - Rank 3
+=== Baron (Snake) - Rank 3
 *Compare:* Choose another player.
 You and that player secretly compare hands.
 The player with the *lower* rank is eliminated.
 If tied, nothing happens.
 
-=== Butterfly (Handmaid) - Rank 4
+=== Handmaid (Butterfly) - Rank 4
 *Protection:* Until the start of your next turn, you cannot be targeted by any other player's card effect.
 
-=== Dragon (Prince) - Rank 5
+=== Prince (Dragon) - Rank 5
 *Discard:* Choose any player (including yourself).
 That player discards their hand and draws a new card.
 If the deck is empty, they draw the face-down set-aside card.
 
-IMPORTANT: If a player discards the Phoenix (Princess) this way, they are eliminated!
+IMPORTANT: If a player discards the Princess (Phoenix) this way, they are eliminated!
 
-=== K♠ (King) - Rank 6
+=== King (K ♠) - Rank 6
 *Trade:* Choose another player and trade hands with them.
 
-=== Q♠ (Countess) - Rank 7
-*Forced play:* If you ever have the Countess *and* either the King or a Dragon in your hand, you *must* play the Countess.
+=== Countess (Q ♠) - Rank 7
+*Forced play:* If you ever have the Countess *and* either the King or a Prince in your hand, you *must* play the Countess.
 
 NOTE: The Countess has no effect when played. You may also choose to play her even if not forced.
 
-=== Phoenix (Princess) - Rank 8
+=== Princess (Phoenix) - Rank 8
 *Fragile:* If you play or discard the Princess for *any* reason, you are immediately *eliminated* from the round.
 
 NOTE: The Princess is the highest-ranked card.
@@ -151,11 +151,3 @@ The winner takes a token of affection.
 == End of game
 
 The first player to collect the required number of tokens wins the game and the Princess's heart!
-
-
-== Strategy tips
-
-* Pay attention to which cards have been played.
-* The Countess can be a bluff - playing her voluntarily makes others think you have the King or Dragon.
-* Protecting yourself with the Butterfly is powerful but reveals your strategy.
-* Remember: there are 5 Wolves, so guessing correctly is easier early in the round.

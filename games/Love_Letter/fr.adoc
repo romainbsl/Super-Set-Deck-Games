@@ -4,17 +4,17 @@
 :icons: font
 
 [.ssd-components]
-.Materiel
+.Matériel
 ****
 * 16 cartes personnage :
-** 5 Loups (Garde)
-** 2 Singes (Prêtre)
-** 2 Serpents (Baron)
-** 2 Papillons (Servante)
-** 2 Dragons (Prince)
-** 1 K♠ (Roi)
-** 1 Q♠ (Comtesse)
-** 1 Phoenix (Princesse)
+** 5 Gardes (Loup)
+** 2 Prêtres (Singe)
+** 2 Barons (Serpent)
+** 2 Servantes (Papillon)
+** 2 Princes (Dragon)
+** 1 Roi (K♠)
+** 1 Comtesse (Q♠)
+** 1 Princesse (Phoenix)
 * Jetons pour compter les manches gagnées : cartes numérotées 1-7 en ★, ou tout autre jeton.
 ****
 
@@ -41,13 +41,13 @@ Gagnez un certain nombre de manches (jetons) pour remporter la partie :
 == Mise en place
 
 1. Mélangez les 16 cartes.
-2. Retirez la premiere carte du paquet face cachée sans la regarder.
+2. Retirez la première carte du paquet face cachée sans la regarder.
 Cette carte est hors-jeu pour cette manche.
-3. *A 2 joueurs uniquement :* Retirez 3 cartes supplémentaires face visible.
+3. *À 2 joueurs uniquement :* Retirez 3 cartes supplémentaires face visible.
 Ces cartes sont visibles de tous mais hors-jeu.
 4. Distribuez 1 carte à chaque joueur.
 C'est votre main.
-Gardez-la secrete !
+Gardez-la secrète !
 5. Placez les cartes restantes face cachée pour former la pioche.
 
 
@@ -55,16 +55,16 @@ Gardez-la secrete !
 
 [%autowidth,cols="^,^,^"]
 |===
-| Rang | Carte | Personnage
+| Rang | Personnage | Carte
 
-| 8 | Phoenix | Princesse
-| 7 | Q♠ | Comtesse
-| 6 | K♠ | Roi
-| 5 | Dragon | Prince
-| 4 | Papillon | Servante
-| 3 | Serpent | Baron
-| 2 | Singe | Prêtre
-| 1 | Loup | Garde
+| 8 | Princesse | Phoenix
+| 7 | Comtesse | Q♠
+| 6 | Roi | K♠
+| 5 | Prince | Dragon
+| 4 | Servante | Papillon
+| 3 | Baron | Serpent
+| 2 | Prêtre | Singe
+| 1 | Garde | Loup
 |===
 
 
@@ -73,7 +73,7 @@ Gardez-la secrete !
 Le joueur qui a eu un rendez-vous amoureux le plus récemment commence (ou tirez au sort).
 Le jeu se déroule dans le sens horaire.
 
-A votre tour :
+À votre tour :
 
 1. *Piochez* la carte du dessus du paquet.
 2. *Jouez* une de vos deux cartes face visible devant vous.
@@ -84,48 +84,48 @@ Votre tour se termine alors et le jeu passe au joueur suivant.
 
 == Effets des cartes
 
-=== Loup (Garde) - Rang 1
-*Deviner :* Nommez un personnage autre que le Loup et désignez un autre joueur.
+=== Garde (Loup) - Rang 1
+*Deviner :* Nommez un personnage autre que le Garde et désignez un autre joueur.
 Si ce joueur possède ce personnage, il est *éliminé* de la manche.
 
-TIP: Vous ne pouvez pas deviner "Loup".
+TIP: Vous ne pouvez pas deviner le rôle "Garde".
 
-=== Singe (Prêtre) - Rang 2
+=== Prêtre (Singe) - Rang 2
 *Espionner :* Choisissez un autre joueur et regardez secrètement sa main.
 Ne la révélez pas aux autres joueurs.
 
-=== Serpent (Baron) - Rang 3
+=== Baron (Serpent) - Rang 3
 *Comparer :* Choisissez un autre joueur.
 Vous et ce joueur comparez secrètement vos mains.
 Le joueur avec le rang *le plus bas* est éliminé.
 En cas d'égalité, rien ne se passe.
 
-=== Papillon (Servante) - Rang 4
-*Protection :* Jusqu'au debut de votre prochain tour, vous ne pouvez pas être ciblé par l'effet d'une carte d'un autre joueur.
+=== Servante (Papillon) - Rang 4
+*Protection :* Jusqu'au début de votre prochain tour, vous ne pouvez pas être ciblé par l'effet d'une carte d'un autre joueur.
 
-=== Dragon (Prince) - Rang 5
+=== Prince (Dragon) - Rang 5
 *Défausser :* Choisissez n'importe quel joueur (vous compris).
 Ce joueur défausse sa main et pioche une nouvelle carte.
-Si le paquet est vide, il pioche la carte mise de cote face cachée.
+Si le paquet est vide, il pioche la carte mise de côté face cachée.
 
-IMPORTANT: Si un joueur défausse le Phoenix (Princesse) de cette facon, il est éliminé !
+IMPORTANT: Si un joueur défausse la Princesse (Phoenix) de cette façon, il est éliminé !
 
-=== K♠ (Roi) - Rang 6
+=== Roi (K♠) - Rang 6
 *Échanger :* Choisissez un autre joueur et échangez vos mains.
 
-=== Q♠ (Comtesse) - Rang 7
-*Jeu force :* Si vous avez la Comtesse *et* soit le Roi, soit un Dragon en main, vous *devez* jouer la Comtesse.
+=== Comtesse (Q♠) - Rang 7
+*Jeu forcé :* Si vous avez la Comtesse *et* soit le Roi, soit un Prince en main, vous *devez* jouer la Comtesse.
 
-NOTE: La Comtesse n'a pas d'effet quand elle est jouée. Vous pouvez aussi choisir de la jouer meme si vous n'y étés pas oblige.
+NOTE: La Comtesse n'a pas d'effet quand elle est jouée. Vous pouvez aussi choisir de la jouer même si vous n'y êtes pas obligé.
 
-=== Phoenix (Princesse) - Rang 8
+=== Princesse (Phoenix) - Rang 8
 *Fragile :* Si vous jouez ou défaussez la Princesse pour *quelque raison que ce soit*, vous êtes immédiatement *éliminé* de la manche.
 
 NOTE: La Princesse est la carte de plus haut rang.
 Si vous la détenez à la fin de la manche, vous gagnez !
 
 
-== Elimination
+== Élimination
 
 Quand vous êtes éliminé :
 
@@ -138,8 +138,8 @@ Quand vous êtes éliminé :
 
 La manche se termine quand :
 
-* Il ne reste qu'*'un seul joueur* (il gagne), ou
-* Le *paquet est épuisé* apres le tour d'un joueur.
+* Il ne reste qu'*un seul joueur* (il gagne), ou
+* Le *paquet est épuisé* après le tour d'un joueur.
 
 Si le paquet est épuisé, tous les joueurs restants révèlent leur main.
 Le joueur avec la carte de *plus haut rang* gagne la manche.
@@ -155,7 +155,7 @@ Le premier joueur à collecter le nombre requis de jetons gagne la partie et le 
 
 == Conseils stratégiques
 
-* Faites attention aux cartes deja jouées.
-* La Comtesse peut servir de bluff — la jouer volontairement fait croire aux autres que vous avez le Roi ou le Dragon.
-* Se protéger avec le Papillon est puissant, mais révèle votre stratégie.
-* N'oubliez pas : il y a 5 Loups, donc deviner correctement est plus facile en debut de manche.
+* Faites attention aux cartes déjà jouées.
+* La Comtesse peut servir de bluff — la jouer volontairement fait croire aux autres que vous avez le Roi ou le Prince.
+* Se protéger avec la Servante est puissant, mais révèle votre stratégie.
+* N'oubliez pas : il y a 5 Gardes, donc deviner correctement est plus facile en début de manche.
